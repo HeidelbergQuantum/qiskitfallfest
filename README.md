@@ -1,4 +1,4 @@
-# qiskitfallfest
+# The Heidelberg Qiskit Fall Fest Event! 
 notebooks for the Heidelberg fall festival event. You can open the notebooks in colab by pressing the badge below! 
 
 
